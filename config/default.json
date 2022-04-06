@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "KleepersMern",
+    "mongoUri": "mongodb+srv://Kleepers:Kleepers@cluster0.pba0w.mongodb.net/Cluster0?retryWrites=true&w=majority"
+}
